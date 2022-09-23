@@ -1,5 +1,22 @@
-.mat-card-simples{
+.mat-card-simples {
   max-width: 300px;
   background-color: aliceblue;
   margin-top: 10px;
+}
+
+.mat-card-medio {
+  max-width: 35%;
+}
+
+.mat-content-line {
+  display: inline;
+}
+
+.mat-content-item-margin {
+  margin-right: 2.5%;
+}
+
+.mat-align-button-margin {
+  margin-right: 2.5%;
+  margin-bottom: 1%;
 }
